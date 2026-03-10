@@ -1,4 +1,4 @@
-module github.com/air-iot/json
+module github.com/zhgqiang/json
 
 go 1.17
 
