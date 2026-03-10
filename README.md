@@ -1,7 +1,7 @@
 # json
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/air-iot/json.svg)](https://pkg.go.dev/github.com/air-iot/json)
-[![Go Report Card](https://goreportcard.com/badge/github.com/air-iot/json)](https://goreportcard.com/report/github.com/air-iot/json)
+[![Go Reference](https://pkg.go.dev/badge/github.com/zhgqiang/json.svg)](https://pkg.go.dev/github.com/zhgqiang/json)
+[![Go Report Card](https://goreportcard.com/badge/github.com/zhgqiang/json)](https://goreportcard.com/report/github.com/zhgqiang/json)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 English | [中文](#中文文档)
@@ -11,7 +11,7 @@ A Go library providing JSON operations and deep copy utilities.
 ## Installation
 
 ```bash
-go get github.com/air-iot/json
+go get github.com/zhgqiang/json
 ```
 
 ## Features
@@ -21,7 +21,7 @@ go get github.com/air-iot/json
 Standard library compatible JSON functions:
 
 ```go
-import "github.com/air-iot/json"
+import "github.com/zhgqiang/json"
 
 // Encoding
 data, err := json.Marshal(obj)
@@ -151,7 +151,7 @@ Go JSON 工具库，提供 JSON 操作和对象深拷贝功能。
 ## 安装
 
 ```bash
-go get github.com/air-iot/json
+go get github.com/zhgqiang/json
 ```
 
 ## 功能
@@ -161,7 +161,7 @@ go get github.com/air-iot/json
 标准库兼容的 JSON 操作函数：
 
 ```go
-import "github.com/air-iot/json"
+import "github.com/zhgqiang/json"
 
 // 编码
 data, err := json.Marshal(obj)
