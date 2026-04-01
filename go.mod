@@ -1,4 +1,4 @@
-module github.com/zhgqiang/json
+module github.com/felix-186/json
 
 go 1.17
 
