@@ -1,6 +1,6 @@
 module github.com/felix-186/json
 
-go 1.17
+go 1.22
 
 require (
 	github.com/jinzhu/copier v0.3.5
